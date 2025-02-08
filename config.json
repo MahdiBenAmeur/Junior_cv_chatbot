@@ -1,0 +1,10 @@
+{
+  "db" :{"user": "root",
+  "password": "1996",
+  "host": "localhost",
+  "database": "fernabot"},
+  "pageconfig" : {
+    "BOT_TOKEN" : "EAAHGHT8rQEABOxZA5qUWT01fxUuzY5VNZAGlKSKiAPfAFSJLTbHNU7GZAP7WbWS5fKekL3NdMz534hlJALrIe3hKvfxg94cOZBV3cA7vztJkwtahfjqZCglRGwhy4SoPbJUX1qjkTdeuZACXU04mf8Sgr56AUXUTkzJX2q6Bjoe6A1uWa8axUCnERDTsZCsZBb8CJgZDZD",
+    "PAGE_ID" : "518692844668143"
+  }
+}
